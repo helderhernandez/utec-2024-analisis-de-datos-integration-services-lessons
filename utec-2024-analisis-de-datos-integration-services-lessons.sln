@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "utec-2024-analisis-de-datos-integration-services-lessons", "utec-2024-analisis-de-datos-integration-services-lessons.dtproj", "{A2E4403A-DA5D-4DFF-A7A9-5AB96B8A7ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E4403A-DA5D-4DFF-A7A9-5AB96B8A7ECA}.Development|Default.ActiveCfg = Development
+		{A2E4403A-DA5D-4DFF-A7A9-5AB96B8A7ECA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE455A7D-5D71-4470-970B-33DE1E02ABDE}
+	EndGlobalSection
+EndGlobal
